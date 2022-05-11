@@ -16,10 +16,7 @@ struct Amount{
     /// Parameterized Constructor
     Amount(double v, std::string t);
 
-
-
 };
-
 
 class Ingredients {
 
@@ -58,6 +55,5 @@ public:
     virtual ~Ingredients();
 
 };
-
 
 #endif //ITALRECEPT_INGREDIENTS_HPP
