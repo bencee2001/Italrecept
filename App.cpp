@@ -230,8 +230,6 @@ void App::Save(std::string filename) {
     int db = pBartender->getDB();
     file << db << "\n";
 
-    std::cout << db;
-
     for(int i = 0 ; i < db ; i++){
         std::cout << db;
         pBartender->at(i+1)->saveRecipe(file);
