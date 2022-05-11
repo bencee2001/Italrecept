@@ -7,8 +7,9 @@
 int main() {
 
     Bartender* bart = new Bartender();
+    Logger logger;
 
-    App* app = new App(bart);
+    App* app = new App(bart,logger);
 
     app->Run();
 

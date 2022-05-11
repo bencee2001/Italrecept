@@ -3,17 +3,19 @@
 #define ITALRECEPT_APP_HPP
 
 #include "Bartender.hpp"
+#include "Logger.hpp"
 
 class App {
 
     Bartender *pBartender;
+    Logger log ;
 
 public:
 
     ///Constructor
     ///@param bartender - bartender object
     ///DI
-    App(Bartender* bartender);
+    App(Bartender* bartender, Logger l);
 
     /// Start the program working
     void Run();

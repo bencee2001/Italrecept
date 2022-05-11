@@ -7,15 +7,15 @@
 #include "Alcohol.hpp"
 #include "Logger.hpp"
 
-App::App(Bartender *bartender) {
+App::App(Bartender *bartender, Logger l) {
     pBartender=bartender;
+    log = l;
 }
 
 App::~App() {}
 
 void App::Run() {
 
-    Logger log;
 
     int com = -1;
     while (com != 0){
