@@ -1,0 +1,26 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Bence\Desktop\Italrecept
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+CMake Error at C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  Cannot find source file:
+
+    C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: cmTC_69c41
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:44 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeError.log".
