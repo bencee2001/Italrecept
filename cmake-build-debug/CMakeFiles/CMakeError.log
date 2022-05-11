@@ -1,0 +1,7 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_4e5e7/fast && mingw32-make.exe: *** No rule to make target 'cmTC_4e5e7/fast'.  Stop.
+
+
+

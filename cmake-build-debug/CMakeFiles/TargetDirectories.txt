@@ -1,0 +1,3 @@
+C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/Italrecept.dir
+C:/Users/Bence/Desktop/Italrecept/cmake-build-debug/CMakeFiles/rebuild_cache.dir

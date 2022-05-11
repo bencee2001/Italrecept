@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bence/Desktop/Italrecept/App.hpp
+Bartender.hpp
+C:/Users/Bence/Desktop/Italrecept/Bartender.hpp
+Logger.hpp
+C:/Users/Bence/Desktop/Italrecept/Logger.hpp
+
+C:/Users/Bence/Desktop/Italrecept/Bartender.hpp
+Recipe.hpp
+C:/Users/Bence/Desktop/Italrecept/Recipe.hpp
+
+C:/Users/Bence/Desktop/Italrecept/Ingredients.hpp
+string
+-
+
+C:/Users/Bence/Desktop/Italrecept/Logger.hpp
+Bartender.hpp
+C:/Users/Bence/Desktop/Italrecept/Bartender.hpp
+
+C:/Users/Bence/Desktop/Italrecept/Recipe.hpp
+string
+-
+vector
+-
+Ingredients.hpp
+C:/Users/Bence/Desktop/Italrecept/Ingredients.hpp
+
+C:/Users/Bence/Desktop/Italrecept/main.cpp
+iostream
+-
+Ingredients.hpp
+C:/Users/Bence/Desktop/Italrecept/Ingredients.hpp
+Recipe.hpp
+C:/Users/Bence/Desktop/Italrecept/Recipe.hpp
+Bartender.hpp
+C:/Users/Bence/Desktop/Italrecept/Bartender.hpp
+App.hpp
+C:/Users/Bence/Desktop/Italrecept/App.hpp
+

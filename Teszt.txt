@@ -1,0 +1,7 @@
+2
+Citromos_Viz,2
+Viz,4,dl
+Citrom,2,Szelet
+Vodka_Narancs,2
+Vodka,0.5,dl,20
+Fanta,3.5,dl
